@@ -1,1 +1,1 @@
-# Simple-converter.-JSON-to-datatable-for-google-chart
+# Simple-converter.-query-result-to-datatable-for-google-chart
